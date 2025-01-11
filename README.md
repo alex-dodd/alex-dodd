@@ -9,7 +9,7 @@
       material and teach based on previous test performances
 - 📫 Reach me at 079 264 6314 🤙 or AlexDodd@VCOTechnologiescc.onmicrosoft.com ✉️
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can code in over 9 programming languages ☕
+- ⚡ Fun fact: I’m convinced my cat understands me better than anyone 🐈‍⬛
 
 <!---
 alex-dodd/alex-dodd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
